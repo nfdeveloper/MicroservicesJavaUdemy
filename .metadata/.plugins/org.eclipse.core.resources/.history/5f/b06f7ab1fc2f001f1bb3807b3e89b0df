@@ -1,0 +1,5 @@
+package io.github.nfdeveloper.mc.msclientes.application;
+
+public class ClienteService {
+
+}
