@@ -354,3 +354,33 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2024-06-21 15:33:03,838 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-06-21 15:33:03,857 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-06-21 15:33:03,861 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msclientes\src\test\resources
+2024-06-21 15:35:18,056 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 15:35:18,068 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 15:35:18,074 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msclientes\src\test\resources
+2024-06-21 15:35:20,912 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 15:35:20,919 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 15:35:20,923 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msclientes\src\test\resources
+2024-06-21 15:37:21,586 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 15:37:21,613 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 15:37:21,617 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msclientes\src\test\resources
+2024-06-21 15:37:59,874 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 15:37:59,884 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 15:37:59,892 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msclientes\src\test\resources
+2024-06-21 15:39:16,438 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 15:39:16,456 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 15:39:16,460 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msclientes\src\test\resources
+2024-06-21 15:42:48,319 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 15:42:48,326 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 15:42:48,331 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msclientes\src\test\resources
+2024-06-21 15:42:59,442 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 15:42:59,449 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 15:42:59,452 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msclientes\src\test\resources
+2024-06-21 15:43:27,746 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 15:43:27,752 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 15:43:27,756 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msclientes\src\test\resources
+2024-06-21 15:45:09,604 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 15:45:09,610 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 15:45:09,615 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msclientes\src\test\resources
+2024-06-21 15:51:00,054 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 15:51:00,060 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 15:51:00,063 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msclientes\src\test\resources

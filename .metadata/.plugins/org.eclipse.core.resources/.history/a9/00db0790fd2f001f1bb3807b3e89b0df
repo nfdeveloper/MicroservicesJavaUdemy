@@ -1,0 +1,5 @@
+package io.github.nfdeveloper.mc.msclientes.application.representation;
+
+public class ClienteSaveRequest {
+
+}
