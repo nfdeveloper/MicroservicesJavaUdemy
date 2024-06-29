@@ -1082,3 +1082,39 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2024-06-28 21:46:23,242 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-06-28 21:46:23,250 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-06-28 21:46:23,254 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msavaliadorcredito\src\test\resources
+2024-06-28 21:47:28,914 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-28 21:47:28,921 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-28 21:47:28,926 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msavaliadorcredito\src\test\resources
+2024-06-28 21:54:31,743 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-28 21:54:31,750 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-28 21:54:31,754 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msavaliadorcredito\src\test\resources
+2024-06-28 21:54:52,929 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-28 21:54:52,937 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-28 21:54:52,941 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msavaliadorcredito\src\test\resources
+2024-06-28 21:55:49,281 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-28 21:55:49,287 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-28 21:55:49,293 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msavaliadorcredito\src\test\resources
+2024-06-28 21:56:09,522 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-28 21:56:09,529 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-28 21:56:09,534 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msavaliadorcredito\src\test\resources
+2024-06-28 21:56:26,462 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-28 21:56:26,468 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-28 21:56:26,472 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msavaliadorcredito\src\test\resources
+2024-06-28 21:59:45,507 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-28 21:59:45,516 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-28 21:59:45,520 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msavaliadorcredito\src\test\resources
+2024-06-28 22:00:18,476 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-28 22:00:18,485 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-28 22:00:18,490 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msavaliadorcredito\src\test\resources
+2024-06-28 22:01:29,251 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-28 22:01:29,256 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-28 22:01:29,261 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msavaliadorcredito\src\test\resources
+2024-06-28 22:01:49,854 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-28 22:01:49,859 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-28 22:01:49,861 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msavaliadorcredito\src\test\resources
+2024-06-28 22:02:40,211 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-28 22:02:40,215 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-28 22:02:40,220 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msavaliadorcredito\src\test\resources
+2024-06-28 22:03:37,694 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-28 22:03:37,702 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-28 22:03:37,707 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curso_Microservices_KeyCloak\msavaliadorcredito\src\test\resources
