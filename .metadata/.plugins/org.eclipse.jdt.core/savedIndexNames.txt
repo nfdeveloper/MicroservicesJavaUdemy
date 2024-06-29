@@ -4,6 +4,7 @@ INDEX VERSION 1.134+C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curs
 2230841843.index
 1240224661.index
 1106517426.index
+3302307770.index
 3150343884.index
 3532121955.index
 249185463.index
@@ -41,10 +42,12 @@ INDEX VERSION 1.134+C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curs
 1517234951.index
 1598657198.index
 1799947096.index
+2860680805.index
 3878795494.index
 729272681.index
 972298442.index
 3229232450.index
+3981837722.index
 208089862.index
 930791448.index
 2936940437.index
@@ -69,6 +72,7 @@ INDEX VERSION 1.134+C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curs
 3547851463.index
 2395535981.index
 1743309223.index
+2610495154.index
 3427892819.index
 72309499.index
 3969129204.index
@@ -86,5 +90,6 @@ INDEX VERSION 1.134+C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curs
 1217408893.index
 3476831592.index
 2335745633.index
+3198402190.index
 910996976.index
 4249406191.index
