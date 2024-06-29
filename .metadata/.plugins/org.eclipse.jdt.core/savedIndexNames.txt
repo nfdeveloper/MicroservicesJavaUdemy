@@ -36,6 +36,7 @@ INDEX VERSION 1.134+C:\Users\nfdev\Documents\Dev\web\Microservices\Projetos\Curs
 1651817025.index
 849793807.index
 3837512767.index
+682209896.index
 2100021638.index
 4267999601.index
 1517234951.index
