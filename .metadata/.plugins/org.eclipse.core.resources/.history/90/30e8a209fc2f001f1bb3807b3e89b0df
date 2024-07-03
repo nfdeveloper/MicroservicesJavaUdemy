@@ -1,8 +1,0 @@
-package io.github.nfdeveloper.mc.msclientes.application;
-
-import org.springframework.web.bind.annotation.RestController;
-
-@RestController
-public class ClientesResource {
-
-}

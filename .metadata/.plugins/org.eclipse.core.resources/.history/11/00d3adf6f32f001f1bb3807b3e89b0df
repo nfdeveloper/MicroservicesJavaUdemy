@@ -1,5 +1,0 @@
-package io.github.nfdeveloper.mc.msclientes.infra.repository;
-
-public interface ClienteRepository {
-
-}
